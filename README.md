@@ -1,4 +1,11 @@
 BiFrost Coin Paper Wallet Generator
+-----------------------------------
+
+Simple Instructions:
+
+1 - Download/Clone this repository
+
+2 - Open the index.html file in your browser
 
 WalletGenerator.net
 Universal Client-Side Wallet Generator
